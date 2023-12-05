@@ -1,0 +1,3 @@
+Sub-Total is: 72.04
+Tax is : 3.82
+Final Total is : 75.86
